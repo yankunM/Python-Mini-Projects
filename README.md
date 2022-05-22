@@ -1,4 +1,4 @@
-# Python Mini Projects
+# Quiz Game
 
 Ask the users a bunch of questions. If they
 give us the right answers, we'll add one to their score.
